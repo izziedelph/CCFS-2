@@ -1,4 +1,5 @@
 BEGINNER PROJECT 2. NETWORK ARCHITECTURE WITH TERRAFORM FOR A SMALL BUT BOOMING BUSINESS
+
 This network architecture design is an add-on to my initial cloud architecture project in the repository izziedelph/CCFS for a small but booming business that is migrating to the cloud. I have implemented a network architecture for the initial design and expanded upon it. 
 For this phase of the Crawley Caribbean Food Service (CCFS-2) project, the focus has been on building a Multi-Tier Network Architecture using Terraform, and implement a GitHub Actions workflow that stops at the terraform plan stage, leaving terraform apply for manual execution. I had issue with Github actions with the first phase which I eventually had to delete so I decided to include it for this one, at least partially up to terraform plan. 
 This multi-Tier Network Architecture is ideal for structuring our cloud environment for security, scalability, and high availability. The key components include:
